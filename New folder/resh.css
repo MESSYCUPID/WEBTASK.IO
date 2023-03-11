@@ -1,0 +1,30 @@
+body{
+    background-image: url(img/img_files/09-32-41-52_200x200.webp);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    
+}
+
+h2{
+    color:rgba(255, 0, 0, 0.829);
+    font-weight: bold;
+}
+
+h3{
+    color: brown;
+    align-items: center;
+    
+}
+p{
+    color: rgb(255, 94, 0);
+    font-style: bold;
+    font: 900px;
+    text-align: justify;
+    align-items: flex-end;
+}
+a:hover{
+    text-decoration: none;
+    color: rgb(9, 255, 0);
+}
